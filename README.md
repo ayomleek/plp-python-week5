@@ -14,14 +14,14 @@ A Week 5 Python assignment on using built-in modules (`random`, `string`,
 ## Running the programs
 
 ```bash
-python3 password_generator.py
-python3 main.py
-python3 helpers.py
+python password_generator.py
+python main.py
+python helpers.py
 ```
 
 ## Screenshots
 
-See the [`screenshots/`](screenshots) folder:
+See the [`Screenshots/`](Screenshots) folder:
 
 - `password_generator_run1.png` and `password_generator_run2.png` — two separate runs of `password_generator.py`, showing different random passwords each time.
 - `main_run.png` — `main.py` importing `helpers` and printing the welcome message and both table counts.
